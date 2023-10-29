@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+}
+.red{
+height: 25vh;
+width: 15vw;
+background-color:red;
+border-radius: 20%;
+border: 0.5rem solid black;
+margin: 1rem;
+
+}
+.green{
+    height: 25vh;
+    width: 15vw;
+    background-color: green;
+    border-radius: 20%;
+    border: 0.5rem solid black;
+    margin: 1rem;
+}
+.blue{
+    height: 25vh;
+    width: 15vw;
+    background-color: blue;
+    border-radius: 20%;
+    border: 0.5rem solid black;
+    margin: 1rem;
+}
+.greenyellow{
+    height: 25vh;
+    width: 15vw;
+    background-color: greenyellow;
+    border-radius: 20%;
+    border: 0.5rem solid black;
+    margin: 1rem;
+}
+.box1{
+    display: flex;
+    justify-content: center;
+}
+.box2{
+    display: flex;
+    justify-content: center;
+    
+}
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color: black;
+}
